@@ -18,7 +18,7 @@ Markdown 编写的文档后缀为 .md, .markdown。
 * 8.[区块](#8.区块)       
 * 9.[代码或者函数](#9.代码或者函数)      
 * 10.[链接](#10.链接)      
-* 11.[Markdown 表格](#11.Markdown 表格)        
+* 11.[Markdown表格](#11.Markdown表格)        
 * [更多高级技巧](#更多高级技巧) 
 
 ## 1.markdown的标题格式
@@ -161,7 +161,8 @@ Markdown 图片语法格式如下：
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
-## 11.Markdown 表格
+## 11.Markdown表格
+
 Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。
 
 语法格式如下：
