@@ -51,7 +51,7 @@ git checkout branchname
 #把新建的分支删除
 git branch -d branchname
 #把分支发送到远端
-git push oringin branchname
+git push origin branchname
 ```
 
 ### 7、更新与合并
