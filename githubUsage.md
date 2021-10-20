@@ -60,5 +60,6 @@ git push origin branchname
 #把本地仓库用远端更新
 git pull
 #把远端改动合并到当前分支
+git pull origin branchname
 ```
 
