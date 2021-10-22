@@ -2,7 +2,7 @@
 
 * 必须参数
 
-  ```
+  ```python
   #!/usr/bin/python3
    
   #可写函数说明
@@ -17,7 +17,7 @@
 
 * 关键字参数
 
-  ```
+  ```python
   #可写函数说明
   def printme( str ):
      "打印任何传入的字符串"
@@ -30,7 +30,7 @@
 
 * 默认参数
 
-  ```
+  ```python
   #可写函数说明
   def printinfo( name, age = 35 ):
      "打印任何传入的字符串"
@@ -46,7 +46,7 @@
 
 * 不定长参数
 
-  ```
+  ```python
   # 可写函数说明
   def printinfo( arg1, *vartuple ):
      "打印任何传入的参数"
@@ -81,4 +81,10 @@
   >>>
   ```
 
+  ## python Slice 操作
+  
+  ```python
+  str=str[:-1]#删除最后一个字符串
+  ```
+  
   
